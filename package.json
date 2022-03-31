@@ -1,0 +1,23 @@
+{
+  "name": "workrecorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongracche/workrecorder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gongracche/workrecorder/issues"
+  },
+  "homepage": "https://github.com/gongracche/workrecorder#readme",
+  "dependencies": {
+    "db-migrate-mysql": "^2.2.0",
+    "express": "^4.17.3"
+  }
+}
